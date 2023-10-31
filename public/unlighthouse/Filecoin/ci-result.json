@@ -1,0 +1,18 @@
+[
+  {
+    "path": "/",
+    "score": 0.93,
+    "performance": 1,
+    "accessibility": 0.89,
+    "best-practices": 1,
+    "seo": 0.83
+  },
+  {
+    "path": "/blog/",
+    "score": 0.9,
+    "performance": 0.99,
+    "accessibility": 0.84,
+    "best-practices": 1,
+    "seo": 0.78
+  }
+]
