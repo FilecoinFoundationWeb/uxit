@@ -1,0 +1,530 @@
+[
+  {
+    "path": "/",
+    "score": 0.92,
+    "performance": 0.88,
+    "accessibility": 0.95,
+    "best-practices": 1,
+    "seo": 0.85
+  },
+  {
+    "path": "/401/",
+    "score": 0.96,
+    "performance": 1,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.92
+  },
+  {
+    "path": "/404.html",
+    "score": 0.96,
+    "performance": 0.95,
+    "accessibility": 0.95,
+    "best-practices": 1,
+    "seo": 0.92
+  },
+  {
+    "path": "/about/",
+    "score": 0.96,
+    "performance": 0.99,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.92
+  },
+  {
+    "path": "/awards/",
+    "score": 0.97,
+    "performance": 1,
+    "accessibility": 0.95,
+    "best-practices": 1,
+    "seo": 0.92
+  },
+  {
+    "path": "/blog/",
+    "score": 0.96,
+    "performance": 0.96,
+    "accessibility": 0.96,
+    "best-practices": 1,
+    "seo": 0.92
+  },
+  {
+    "path": "/blog/2022-ffdw-report/",
+    "score": 0.94,
+    "performance": 0.99,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.85
+  },
+  {
+    "path": "/blog/big-ideas-driving-the-decentralized-web/",
+    "score": 0.94,
+    "performance": 0.99,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.85
+  },
+  {
+    "path": "/blog/can-filecoin-be-the-storage-network-for-human-rights-data/",
+    "score": 0.94,
+    "performance": 1,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.85
+  },
+  {
+    "path": "/blog/exploring-the-decentralized-web-episodes-9-12/",
+    "score": 0.92,
+    "performance": 0.99,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/blog/ffdw-and-easier-data-initiative-collaborate-to-upload-spatial-data-to-filecoin-network/",
+    "score": 0.94,
+    "performance": 1,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.85
+  },
+  {
+    "path": "/blog/ffdw-and-human-rights-data-analysis-group-hrdag-collaborate-to-advance-decentralized-storage/",
+    "score": 0.92,
+    "performance": 0.99,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/blog/ffdw-and-openarchive-collaborate-to-deploy-decentralized-archive-for-human-rights-data/",
+    "score": 0.92,
+    "performance": 0.99,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.77
+  },
+  {
+    "path": "/blog/leveraging-the-dweb-to-enhance-free-speech/",
+    "score": 0.94,
+    "performance": 0.97,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.85
+  },
+  {
+    "path": "/contact/",
+    "score": 0.93,
+    "performance": 0.93,
+    "accessibility": 0.94,
+    "best-practices": 1,
+    "seo": 0.85
+  },
+  {
+    "path": "/dweb-impact-resources/big-ideas-driving-the-decentralized-web-d51a8/",
+    "score": 0,
+    "performance": null,
+    "accessibility": null,
+    "best-practices": null,
+    "seo": null
+  },
+  {
+    "path": "/dweb-impact-resources/black-experiences-in-crypto-an-exploration-of-crypto-adoption-in-web3-by-black-people/",
+    "score": 0,
+    "performance": null,
+    "accessibility": null,
+    "best-practices": null,
+    "seo": null
+  },
+  {
+    "path": "/dweb-impact-resources/dweb-for-creators-gray-area-course/",
+    "score": 0,
+    "performance": null,
+    "accessibility": null,
+    "best-practices": null,
+    "seo": null
+  },
+  {
+    "path": "/dweb-impact-resources/easier-data-initiative-lightning-talk-at-computer-over-data-summit/",
+    "score": 0,
+    "performance": null,
+    "accessibility": null,
+    "best-practices": null,
+    "seo": null
+  },
+  {
+    "path": "/dweb-impact-resources/fabiola-and-david-discuss-ipfs-filecoin-and-the-decentralized-web-8c55b/",
+    "score": 0,
+    "performance": null,
+    "accessibility": null,
+    "best-practices": null,
+    "seo": null
+  },
+  {
+    "path": "/dweb-impact-resources/ffdw-and-openarchive-collaborate-to-deploy-decentralized-archive-for-human-rights-data-fcead/",
+    "score": 0,
+    "performance": null,
+    "accessibility": null,
+    "best-practices": null,
+    "seo": null
+  },
+  {
+    "path": "/dweb-impact-resources/five-ways-daos-will-revolutionize-social-impact-2658b/",
+    "score": 0,
+    "performance": null,
+    "accessibility": null,
+    "best-practices": null,
+    "seo": null
+  },
+  {
+    "path": "/dweb-impact-resources/how-can-civil-society-participate-in-the-decentralized-future-of-the-web-2059d/",
+    "score": 0,
+    "performance": null,
+    "accessibility": null,
+    "best-practices": null,
+    "seo": null
+  },
+  {
+    "path": "/explore/",
+    "score": 0.95,
+    "performance": 1,
+    "accessibility": 0.96,
+    "best-practices": 1,
+    "seo": 0.85
+  },
+  {
+    "path": "/get-involved/",
+    "score": 0.95,
+    "performance": 0.94,
+    "accessibility": 0.95,
+    "best-practices": 1,
+    "seo": 0.92
+  },
+  {
+    "path": "/layouts/header-content/",
+    "score": 0.96,
+    "performance": 1,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.92
+  },
+  {
+    "path": "/privacy/",
+    "score": 0.97,
+    "performance": 1,
+    "accessibility": 0.95,
+    "best-practices": 1,
+    "seo": 0.92
+  },
+  {
+    "path": "/project-partners/",
+    "score": 0.93,
+    "performance": 0.98,
+    "accessibility": 0.96,
+    "best-practices": 0.92,
+    "seo": 0.85
+  },
+  {
+    "path": "/project-partners/cc-pk-movement-for-a-better-internet/",
+    "score": 0,
+    "performance": null,
+    "accessibility": null,
+    "best-practices": null,
+    "seo": null
+  },
+  {
+    "path": "/project-partners/decentralized-future-council/",
+    "score": 0,
+    "performance": null,
+    "accessibility": null,
+    "best-practices": null,
+    "seo": null
+  },
+  {
+    "path": "/project-partners/electronic-frontier-foundation/",
+    "score": 0,
+    "performance": null,
+    "accessibility": null,
+    "best-practices": null,
+    "seo": null
+  },
+  {
+    "path": "/project-partners/grayarea-foundation-for-the-arts/",
+    "score": 0,
+    "performance": null,
+    "accessibility": null,
+    "best-practices": null,
+    "seo": null
+  },
+  {
+    "path": "/project-partners/guardian-project/",
+    "score": 0,
+    "performance": null,
+    "accessibility": null,
+    "best-practices": null,
+    "seo": null
+  },
+  {
+    "path": "/project-partners/hrdag/",
+    "score": 0,
+    "performance": null,
+    "accessibility": null,
+    "best-practices": null,
+    "seo": null
+  },
+  {
+    "path": "/project-partners/stack-shift/",
+    "score": 0,
+    "performance": null,
+    "accessibility": null,
+    "best-practices": null,
+    "seo": null
+  },
+  {
+    "path": "/project-partners/techcongress-growing-the-congressional-innovation-fellowship/",
+    "score": 0,
+    "performance": null,
+    "accessibility": null,
+    "best-practices": null,
+    "seo": null
+  },
+  {
+    "path": "/resource-topics/dapps/",
+    "score": 0,
+    "performance": null,
+    "accessibility": null,
+    "best-practices": null,
+    "seo": null
+  },
+  {
+    "path": "/resource-topics/defi/",
+    "score": 0,
+    "performance": null,
+    "accessibility": null,
+    "best-practices": null,
+    "seo": null
+  },
+  {
+    "path": "/resource-topics/general-web3/",
+    "score": 0,
+    "performance": null,
+    "accessibility": null,
+    "best-practices": null,
+    "seo": null
+  },
+  {
+    "path": "/resource-topics/governance/",
+    "score": 0,
+    "performance": null,
+    "accessibility": null,
+    "best-practices": null,
+    "seo": null
+  },
+  {
+    "path": "/resource-topics/policy/",
+    "score": 0,
+    "performance": null,
+    "accessibility": null,
+    "best-practices": null,
+    "seo": null
+  },
+  {
+    "path": "/resource-topics/refi/",
+    "score": 0,
+    "performance": null,
+    "accessibility": null,
+    "best-practices": null,
+    "seo": null
+  },
+  {
+    "path": "/resource-topics/social-impact/",
+    "score": 0,
+    "performance": null,
+    "accessibility": null,
+    "best-practices": null,
+    "seo": null
+  },
+  {
+    "path": "/resource-topics/storage/",
+    "score": 0,
+    "performance": null,
+    "accessibility": null,
+    "best-practices": null,
+    "seo": null
+  },
+  {
+    "path": "/resource-type/blog/",
+    "score": 0,
+    "performance": null,
+    "accessibility": null,
+    "best-practices": null,
+    "seo": null
+  },
+  {
+    "path": "/resource-type/case-study/",
+    "score": 0,
+    "performance": null,
+    "accessibility": null,
+    "best-practices": null,
+    "seo": null
+  },
+  {
+    "path": "/resource-type/podcast/",
+    "score": 0,
+    "performance": null,
+    "accessibility": null,
+    "best-practices": null,
+    "seo": null
+  },
+  {
+    "path": "/resource-type/report/",
+    "score": 0,
+    "performance": null,
+    "accessibility": null,
+    "best-practices": null,
+    "seo": null
+  },
+  {
+    "path": "/resource-type/tool/",
+    "score": 0,
+    "performance": null,
+    "accessibility": null,
+    "best-practices": null,
+    "seo": null
+  },
+  {
+    "path": "/resource-type/tutorial/",
+    "score": 0,
+    "performance": null,
+    "accessibility": null,
+    "best-practices": null,
+    "seo": null
+  },
+  {
+    "path": "/resource-type/video/",
+    "score": 0,
+    "performance": null,
+    "accessibility": null,
+    "best-practices": null,
+    "seo": null
+  },
+  {
+    "path": "/resources/",
+    "score": 0.95,
+    "performance": 0.92,
+    "accessibility": 0.94,
+    "best-practices": 1,
+    "seo": 0.92
+  },
+  {
+    "path": "/style-guide/",
+    "score": 0.96,
+    "performance": 1,
+    "accessibility": 0.9,
+    "best-practices": 1,
+    "seo": 0.92
+  },
+  {
+    "path": "/tags/advocacy/",
+    "score": 0,
+    "performance": null,
+    "accessibility": null,
+    "best-practices": null,
+    "seo": null
+  },
+  {
+    "path": "/tags/decentralized/",
+    "score": 0,
+    "performance": null,
+    "accessibility": null,
+    "best-practices": null,
+    "seo": null
+  },
+  {
+    "path": "/tags/fellowship/",
+    "score": 0,
+    "performance": null,
+    "accessibility": null,
+    "best-practices": null,
+    "seo": null
+  },
+  {
+    "path": "/tags/internet-education-foundation/",
+    "score": 0,
+    "performance": null,
+    "accessibility": null,
+    "best-practices": null,
+    "seo": null
+  },
+  {
+    "path": "/tags/muckrock/",
+    "score": 0,
+    "performance": null,
+    "accessibility": null,
+    "best-practices": null,
+    "seo": null
+  },
+  {
+    "path": "/tags/social-media-c/",
+    "score": 0,
+    "performance": null,
+    "accessibility": null,
+    "best-practices": null,
+    "seo": null
+  },
+  {
+    "path": "/tags/the-finesse/",
+    "score": 0,
+    "performance": null,
+    "accessibility": null,
+    "best-practices": null,
+    "seo": null
+  },
+  {
+    "path": "/tags/web3/",
+    "score": 0,
+    "performance": null,
+    "accessibility": null,
+    "best-practices": null,
+    "seo": null
+  },
+  {
+    "path": "/terms/",
+    "score": 0.97,
+    "performance": 1,
+    "accessibility": 0.95,
+    "best-practices": 1,
+    "seo": 0.92
+  },
+  {
+    "path": "/utility/base/",
+    "score": 0.95,
+    "performance": 1,
+    "accessibility": 0.87,
+    "best-practices": 1,
+    "seo": 0.92
+  },
+  {
+    "path": "/utility/elements-with-interactions/",
+    "score": 0.95,
+    "performance": 1,
+    "accessibility": 0.88,
+    "best-practices": 1,
+    "seo": 0.92
+  },
+  {
+    "path": "/utility/modal/",
+    "score": 0,
+    "performance": null,
+    "accessibility": null,
+    "best-practices": null,
+    "seo": null
+  },
+  {
+    "path": "/utility/style-guide/",
+    "score": 0.97,
+    "performance": 1,
+    "accessibility": 0.96,
+    "best-practices": 1,
+    "seo": 0.92
+  }
+]
