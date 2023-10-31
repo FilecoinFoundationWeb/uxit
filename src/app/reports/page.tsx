@@ -1,9 +1,9 @@
 import { reports } from "@/data/reports";
 
-export default function UsabilityReports() {
+export default function Reports() {
   return (
     <>
-      <h1>Usability Reports</h1>
+      <h1>Reports</h1>
       <ul>
         {reports.map((report) => (
           <li key={report.folder}>
