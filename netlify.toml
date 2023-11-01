@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "https://uxit.netlify.app/*"
+  to = "https://uxit.fil.org/:splat"
+  status = 301
+  force = true
