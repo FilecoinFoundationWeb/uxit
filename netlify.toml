@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "/*"
+  to = "https://uxit.fil.org/:splat"
+  status = 301
+  force = true
