@@ -17,7 +17,7 @@ export const reports: Report[] = [
   {
     name: "Filecoin Foundation",
     folder: "FF",
-    site_url: "https://filecoinfoundation.org",
+    site_url: "https://fil.org",
   },
   {
     name: "Filecoin",

@@ -2,9 +2,425 @@
   {
     "path": "/",
     "score": 0.88,
-    "performance": 0.95,
-    "accessibility": 0.88,
+    "performance": 0.76,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.85
+  },
+  {
+    "path": "/about/",
+    "score": 0.92,
+    "performance": 0.82,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.92
+  },
+  {
+    "path": "/blog/",
+    "score": 0.94,
+    "performance": 0.96,
+    "accessibility": 0.96,
+    "best-practices": 1,
+    "seo": 0.85
+  },
+  {
+    "path": "/blog/building-a-flow-nft-pet-store-part-1/",
+    "score": 0.86,
+    "performance": 0.71,
+    "accessibility": 0.91,
+    "best-practices": 1,
+    "seo": 0.83
+  },
+  {
+    "path": "/blog/building-an-nft-store-on-flow-part-2/",
+    "score": 0.77,
+    "performance": 0.7,
+    "accessibility": 0.79,
     "best-practices": 0.92,
-    "seo": 0.75
+    "seo": 0.68
+  },
+  {
+    "path": "/blog/call-for-community-feedback-weigh-in-on-the-new-filecoin-governance-process-proposal-fip0001v2/",
+    "score": 0.85,
+    "performance": 0.7,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.76
+  },
+  {
+    "path": "/blog/dev-grant-spotlight-datastation/",
+    "score": 0.85,
+    "performance": 0.7,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.76
+  },
+  {
+    "path": "/blog/dev-grant-spotlight-fileverse/",
+    "score": 0.86,
+    "performance": 0.69,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.83
+  },
+  {
+    "path": "/blog/everything-you-need-to-know-about-fip0036-deliberation-discussion-and-next-steps/",
+    "score": 0.85,
+    "performance": 0.72,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.76
+  },
+  {
+    "path": "/blog/filecoin-foundation-first-half-year-in-review/",
+    "score": 0.85,
+    "performance": 0.71,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.76
+  },
+  {
+    "path": "/blog/filecoin-nv19-lightning-upgrade/",
+    "score": 0.89,
+    "performance": 0.86,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.76
+  },
+  {
+    "path": "/case-studies/decentralized-future-council/",
+    "score": 0,
+    "performance": null,
+    "accessibility": null,
+    "best-practices": null,
+    "seo": null
+  },
+  {
+    "path": "/case-studies/gainforest/",
+    "score": 0,
+    "performance": null,
+    "accessibility": null,
+    "best-practices": null,
+    "seo": null
+  },
+  {
+    "path": "/case-studies/genrait-genomic-data/",
+    "score": 0,
+    "performance": null,
+    "accessibility": null,
+    "best-practices": null,
+    "seo": null
+  },
+  {
+    "path": "/case-studies/institute-for-education-dinners/",
+    "score": 0,
+    "performance": null,
+    "accessibility": null,
+    "best-practices": null,
+    "seo": null
+  },
+  {
+    "path": "/case-studies/lockheed-martin/",
+    "score": 0,
+    "performance": null,
+    "accessibility": null,
+    "best-practices": null,
+    "seo": null
+  },
+  {
+    "path": "/case-studies/new-york-city/",
+    "score": 0,
+    "performance": null,
+    "accessibility": null,
+    "best-practices": null,
+    "seo": null
+  },
+  {
+    "path": "/case-studies/techcongress/",
+    "score": 0,
+    "performance": null,
+    "accessibility": null,
+    "best-practices": null,
+    "seo": null
+  },
+  {
+    "path": "/case-studies/university-of-maryland-s-department-of-geographical-sciences/",
+    "score": 0,
+    "performance": null,
+    "accessibility": null,
+    "best-practices": null,
+    "seo": null
+  },
+  {
+    "path": "/davos-faqs/test/",
+    "score": 0,
+    "performance": null,
+    "accessibility": null,
+    "best-practices": null,
+    "seo": null
+  },
+  {
+    "path": "/davos-registration/",
+    "score": 0.93,
+    "performance": 0.97,
+    "accessibility": 0.92,
+    "best-practices": 0.92,
+    "seo": 0.92
+  },
+  {
+    "path": "/davos/",
+    "score": 0.93,
+    "performance": 1,
+    "accessibility": 0.93,
+    "best-practices": 0.92,
+    "seo": 0.85
+  },
+  {
+    "path": "/ecosystem-projects/",
+    "score": 0.95,
+    "performance": 1,
+    "accessibility": 0.95,
+    "best-practices": 1,
+    "seo": 0.85
+  },
+  {
+    "path": "/ecosystem/",
+    "score": 0.93,
+    "performance": 0.87,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.92
+  },
+  {
+    "path": "/events/",
+    "score": 0.93,
+    "performance": 1,
+    "accessibility": 0.93,
+    "best-practices": 0.92,
+    "seo": 0.85
+  },
+  {
+    "path": "/events/asia-hackathon-season-2021/",
+    "score": 0,
+    "performance": null,
+    "accessibility": null,
+    "best-practices": null,
+    "seo": null
+  },
+  {
+    "path": "/events/espa-bootcamp-cohort-4/",
+    "score": 0,
+    "performance": null,
+    "accessibility": null,
+    "best-practices": null,
+    "seo": null
+  },
+  {
+    "path": "/events/fil-bangalore/",
+    "score": 0,
+    "performance": null,
+    "accessibility": null,
+    "best-practices": null,
+    "seo": null
+  },
+  {
+    "path": "/events/fil-paris/",
+    "score": 0,
+    "performance": null,
+    "accessibility": null,
+    "best-practices": null,
+    "seo": null
+  },
+  {
+    "path": "/events/hyperledger-global-forum/",
+    "score": 0,
+    "performance": null,
+    "accessibility": null,
+    "best-practices": null,
+    "seo": null
+  },
+  {
+    "path": "/events/protocol-village-at-consensus-2023/",
+    "score": 0,
+    "performance": null,
+    "accessibility": null,
+    "best-practices": null,
+    "seo": null
+  },
+  {
+    "path": "/events/the-crypties/",
+    "score": 0,
+    "performance": null,
+    "accessibility": null,
+    "best-practices": null,
+    "seo": null
+  },
+  {
+    "path": "/events/unfinished-live/",
+    "score": 0,
+    "performance": null,
+    "accessibility": null,
+    "best-practices": null,
+    "seo": null
+  },
+  {
+    "path": "/get-involved/",
+    "score": 0.96,
+    "performance": 0.97,
+    "accessibility": 0.95,
+    "best-practices": 1,
+    "seo": 0.92
+  },
+  {
+    "path": "/governance/",
+    "score": 0.95,
+    "performance": 0.94,
+    "accessibility": 0.95,
+    "best-practices": 1,
+    "seo": 0.92
+  },
+  {
+    "path": "/grants/",
+    "score": 0.94,
+    "performance": 0.96,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.85
+  },
+  {
+    "path": "/layouts/base/",
+    "score": 0.95,
+    "performance": 0.93,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.92
+  },
+  {
+    "path": "/policy/",
+    "score": 0.96,
+    "performance": 0.95,
+    "accessibility": 0.95,
+    "best-practices": 1,
+    "seo": 0.92
+  },
+  {
+    "path": "/project-partners/",
+    "score": 0.91,
+    "performance": 1,
+    "accessibility": 0.95,
+    "best-practices": 0.92,
+    "seo": 0.77
+  },
+  {
+    "path": "/project-partners/artifact-labs/",
+    "score": 0,
+    "performance": null,
+    "accessibility": null,
+    "best-practices": null,
+    "seo": null
+  },
+  {
+    "path": "/project-partners/desci-labs/",
+    "score": 0,
+    "performance": null,
+    "accessibility": null,
+    "best-practices": null,
+    "seo": null
+  },
+  {
+    "path": "/project-partners/gainforest/",
+    "score": 0,
+    "performance": null,
+    "accessibility": null,
+    "best-practices": null,
+    "seo": null
+  },
+  {
+    "path": "/project-partners/metapals/",
+    "score": 0,
+    "performance": null,
+    "accessibility": null,
+    "best-practices": null,
+    "seo": null
+  },
+  {
+    "path": "/project-partners/renovi/",
+    "score": 0,
+    "performance": null,
+    "accessibility": null,
+    "best-practices": null,
+    "seo": null
+  },
+  {
+    "path": "/project-partners/the-internet-archive/",
+    "score": 0,
+    "performance": null,
+    "accessibility": null,
+    "best-practices": null,
+    "seo": null
+  },
+  {
+    "path": "/project-partners/university-of-utah/",
+    "score": 0,
+    "performance": null,
+    "accessibility": null,
+    "best-practices": null,
+    "seo": null
+  },
+  {
+    "path": "/project-partners/webrecorder/",
+    "score": 0,
+    "performance": null,
+    "accessibility": null,
+    "best-practices": null,
+    "seo": null
+  },
+  {
+    "path": "/public-data/",
+    "score": 0.93,
+    "performance": 0.92,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.85
+  },
+  {
+    "path": "/public-data/award/",
+    "score": 0.94,
+    "performance": 0.97,
+    "accessibility": 0.95,
+    "best-practices": 1,
+    "seo": 0.83
+  },
+  {
+    "path": "/terms/",
+    "score": 0.97,
+    "performance": 0.99,
+    "accessibility": 0.95,
+    "best-practices": 1,
+    "seo": 0.92
+  },
+  {
+    "path": "/utility/base-components/",
+    "score": 0.95,
+    "performance": 1,
+    "accessibility": 0.87,
+    "best-practices": 1,
+    "seo": 0.92
+  },
+  {
+    "path": "/utility/modal/",
+    "score": 0,
+    "performance": null,
+    "accessibility": null,
+    "best-practices": null,
+    "seo": null
+  },
+  {
+    "path": "/utility/style-guide/",
+    "score": 0.95,
+    "performance": 1,
+    "accessibility": 0.89,
+    "best-practices": 1,
+    "seo": 0.92
   }
 ]
