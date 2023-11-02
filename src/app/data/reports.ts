@@ -15,14 +15,19 @@ export const reports: Report[] = [
     site_url: "https://ffdweb.com",
   },
   {
-    name: "Filecoin Foundation",
-    folder: "FF",
-    site_url: "https://filecoinfoundation.org",
-  },
-  {
     name: "Filecoin",
     folder: "Filecoin",
     site_url: "https://filecoin.io",
+  },
+  {
+    name: "Filecoin Foundation",
+    folder: "FF",
+    site_url: "https://fil.org",
+  },
+  {
+    name: "Filecoin Virtual Machine",
+    folder: "FilecoinVirtualMachine",
+    site_url: "https://fvm.filecoin.io/",
   },
 ].map((report) => ({
   ...report,
