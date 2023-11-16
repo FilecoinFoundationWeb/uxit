@@ -22,7 +22,7 @@ const Card = ({
     href.startsWith("http://") || href.startsWith("https://");
 
   const cardContent = (
-    <div className={`bg-white gap-8 ${isEvenIndex ? 'rounded-r-lg' : 'rounded-l-lg'} flex flex-col justify-between p-6 group`}>
+    <div className={`bg-white gap-8 rounded ${isEvenIndex ? 'sm:rounded-l-none' : 'sm:rounded-r-none'} flex flex-col justify-between p-6 group`}>
       <div className="flex justify-between">
         <div className="grid place-content-center h-16 w-16 rounded bg-indigo-600 text-white">
           <svg
@@ -62,11 +62,16 @@ const Card = ({
   return (
     <>
       {isExternalLink ? (
-        <a href={href} target="_blank" rel="noopener noreferrer">
+        <a
+          className="flex"
+          href={href}
+          target="_blank"
+          rel="noopener noreferrer"
+        >
           {cardContent}
         </a>
       ) : (
-        <Link href={href}>
+        <Link className="flex" href={href}>
           {cardContent}
         </Link>
       )}
