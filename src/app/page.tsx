@@ -1,4 +1,5 @@
 import Card from "@/components/Card";
+import Header from "@/components/Header";
 import Navbar from "@/components/Navbar";
 
 export default function Home() {
@@ -7,18 +8,7 @@ export default function Home() {
       <Navbar />
       <div className="flex grow mx-auto max-w-6xl px-4 sm:px-6 lg:px-8">
         <div className="flex flex-col items-center justify-center gap-24">
-          <header className="flex gap-5 flex-col items-center text-center">
-            <span className="font-semibold text-indigo-600">UXIT</span>
-            <h1 className="text-4xl font-bold tracking-tight sm:text-6xl">
-              UXIT User-Focused Solutions for the
-              <br />
-              <span className="text-indigo-600">Future of Filecoin</span>
-            </h1>
-            <p className="text-lg leading-8 text-gray-200">
-              The FF UX Improvement Team is dedicated to finding user-focused
-              solutions for the future of Filecoin.
-            </p>
-          </header>
+          <Header />
           <main>
             <div className="grid gap-2 sm:gap-0 sm:grid-cols-2 sm:divide-x sm:divide-gray-200">
               <Card
