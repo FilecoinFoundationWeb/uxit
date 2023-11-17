@@ -1,9 +1,11 @@
-import Link from "next/link";
+import Link from "next/link"
+
+import ModeToggle from "@/components/ModeToggle"
 
 const Navbar = () => {
   return (
     <nav className="p-6 lg:px-8 flex justify-between">
-      <Link className="text-white" href="/">
+      <Link className="text-slate-800 dark:text-gray-100" href="/">
         <span className="sr-only">Filecoin Foundation</span>
         <svg
           aria-hidden="true"
@@ -25,7 +27,7 @@ const Navbar = () => {
       <div className="flex items-center justify-center gap-8 sm:gap-10">
         <a
           href="https://github.com/FilecoinFoundationWeb/uxit"
-          className="text-gray-100 hover:text-gray-200"
+          className="text-slate-800 hover:text-slate-700 dark:text-gray-100 dark:hover:text-gray-200"
         >
           <span className="sr-only">GitHub</span>
           <svg
@@ -43,27 +45,10 @@ const Navbar = () => {
             />
           </svg>
         </a>
-        <button className="text-gray-100 hover:text-gray-200">
-          <span className="sr-only">Toggle Light Dark mode</span>
-          <svg
-            aria-hidden="true"
-            xmlns="http://www.w3.org/2000/svg"
-            fill="currentColor"
-            viewBox="0 0 24 24"
-            strokeWidth="1.5"
-            stroke="currentColor"
-            className="h-6 w-6"
-          >
-            <path
-              strokeLinecap="round"
-              strokeLinejoin="round"
-              d="M21.752 15.002A9.718 9.718 0 0118 15.75c-5.385 0-9.75-4.365-9.75-9.75 0-1.33.266-2.597.748-3.752A9.753 9.753 0 003 11.25C3 16.635 7.365 21 12.75 21a9.753 9.753 0 009.002-5.998z"
-            />
-          </svg>
-        </button>
+        <ModeToggle />
       </div>
     </nav>
-  );
-};
+  )
+}
 
-export default Navbar;
+export default Navbar
