@@ -27,6 +27,7 @@ const Navbar = () => {
       <div className="flex items-center justify-center gap-8 sm:gap-10">
         <a
           href="https://github.com/FilecoinFoundationWeb/uxit"
+          target="_blank"
           className="text-slate-800 hover:text-slate-700 dark:text-gray-100 dark:hover:text-gray-200"
         >
           <span className="sr-only">GitHub</span>
