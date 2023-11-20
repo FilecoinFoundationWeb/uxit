@@ -1,6 +1,6 @@
 const Header = () => {
   return (
-    <header className="flex gap-5 flex-col items-center text-center">
+    <header className="flex gap-5 flex-col items-center text-center max-w-2xl">
       <span className="text-indigo-800 font-semibold dark:text-indigo-500">
         UXIT
       </span>

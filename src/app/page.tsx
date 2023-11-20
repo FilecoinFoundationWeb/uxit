@@ -1,13 +1,13 @@
-import Card from "@/components/Card"
-import Header from "@/components/Header"
-import Navbar from "@/components/Navbar"
+import Card from '@/components/Card'
+import Header from '@/components/Header'
+import Navbar from '@/components/Navbar'
 
 export default function Home() {
   return (
-    <div className="h-screen flex flex-col bg-slate-100 dark:bg-slate-900">
+    <div className="h-screen flex flex-col">
       <Navbar />
-      <div className="flex grow mx-auto max-w-6xl px-4 sm:px-6 lg:px-8">
-        <div className=" flex flex-col items-center justify-center gap-24">
+      <div className="flex grow mx-auto max-w-4xl px-4 py-12 lg:py-16 sm:px-6 lg:px-8">
+        <div className="flex flex-col items-center justify-center gap-12 lg:gap-20">
           <Header />
           <main className="divide-y divide-gray-200 sm:grid sm:grid-cols-2 sm:divide-y-0 sm:divide-x shadow overflow-hidden">
             <Card
