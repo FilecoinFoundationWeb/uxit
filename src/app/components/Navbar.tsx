@@ -1,10 +1,10 @@
-import Link from "next/link"
+import Link from 'next/link'
 
-import ModeToggle from "@/components/ModeToggle"
+import ModeToggle from '@/components/ModeToggle'
 
 const Navbar = () => {
   return (
-    <nav className="p-6 lg:px-8 flex justify-between">
+    <nav className="bg-white dark:bg-slate-800 p-6 lg:px-8 flex justify-between">
       <Link className="text-slate-800 dark:text-gray-100" href="/">
         <span className="sr-only">Filecoin Foundation</span>
         <svg
